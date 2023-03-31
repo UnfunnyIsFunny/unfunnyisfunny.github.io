@@ -39,5 +39,12 @@ body {
   }
 }
 
+a{
+	text-decoration:none
+}
+
+.command {
+font-family: 'Ubuntu Mono', monospace;
+ }
 
 
